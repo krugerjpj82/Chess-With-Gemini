@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Grandmaster Chess",
+  "description": "A single-player chess experience powered by Google Gemini. Challenge the AI at various difficulty levels with a sleek, responsive interface.",
+  "requestFramePermissions": []
+}
